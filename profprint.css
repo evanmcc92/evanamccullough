@@ -1,0 +1,200 @@
+@font-face {
+	font-family: "Steinem";
+	src: url("fonts/STEINEMU.ttf") format("truetype");
+	}
+@font-face {
+	font-family: "Channel";
+	src: url("fonts/Channel_Slanted2.ttf") format("truetype");
+	}
+article, aside, footer, header, div {
+	display: block;
+	}
+aside {
+	text-align: center;
+	font-size: 17px;
+	margin: 0;
+    background: none;
+	}
+aside li {
+	list-style-type: none;
+	padding: 5px;
+	margin-left: -5px;
+	display: inline;
+	}
+aside p {
+	text-align: center;
+	}
+body {
+    font-family: helvetica,arial,"Lucida Grande",sans-serif;
+	}
+fieldset {
+	border: none;
+	}
+figure {
+	text-align:center;
+	padding-top: 2em;
+	}
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	clear: both;
+	font-size: 15px;
+	background-image: url("images/footer-extend.png");
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	margin: 0 0 0 -8px;
+	display: none;
+	}
+footer li {
+	display: none;
+	list-style-type: none;
+	padding: 0 10px 0;
+	}
+h1 {
+	font-family: "Channel";
+	text-align: center;
+	position: fixed;
+	margin: -1em 0 0 -88.5px;
+	left: 10%;
+	top: 1.3em;
+	display: none;
+	}
+h2 {
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	font-weight: 500;
+	}
+h3 {
+	text-align: center;
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	font-weight: 500;
+	}
+h4 {
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	font-weight: 500;
+	}
+header {
+	position: fixed;
+	text-align: center;
+	margin: -11px 0 0 -8px;
+	padding: 1px;
+	background-image: url("images/header.png");
+	font-family: "Channel";
+	font-size: 18px;
+	height: 67px;
+	width: 100%;
+	color: black;
+	top: 10px;
+	display: none;
+	}
+legend {
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	}
+nav {
+	top: 20%;
+	position: relative;
+    left: 19%;
+    float: left;
+	display: none;
+	}
+#aboutimg {
+	float: left;
+	margin: 0 20px 5px 0;
+	padding: 0 0 0 0;
+	}
+#articleProject {
+	padding: 15px;
+	font-size: 18px;
+    margin: 20px 0 10%;
+	}
+#box {
+	width: 900px;
+	padding-top: 0.5em;
+    margin: 1em auto 10px;
+    background: none;
+	}
+#email {
+	width: 250px;
+	}
+#footerDiv {
+	float: right;
+	position: relative;
+	top: 30%;
+	padding-right: 30px;
+	color: rgb(194,214,155);
+	display: none;
+	}
+#headernav li {
+	display: none;
+    list-style-type: none;
+    padding: 0 5em 0 0;
+	}
+#indexaside li {
+	list-style-type: none;
+	margin: 2em 0 2em 0;
+	text-align: center;
+	padding: 0 1em 0 1em;
+	display: none;
+	}
+#message {
+	height: 200px;
+	width: 500px;
+	}
+#name {
+	width: 250px;
+	}
+#socialmedia {
+	float: left;
+	position: relative;
+	top: 20%;
+	display: none;
+	}
+.projectimg {
+	float: left;
+	margin: 0 -2px 0 0;
+	padding: 0 1em 0 0;
+	}
+a:link {
+	color: black;
+	}
+a:hover {
+	color: black;
+	}
+a:visited {
+	color: black;
+	}
+a:active {
+	color: black;
+	}
+footer a:link {
+	color: black;
+	text-decoration:none;
+	}
+footer a:hover {
+	color: black;
+	text-decoration:none;
+	}
+footer a:visited {
+	color: black;
+	text-decoration:none;
+	}
+footer a:active {
+	color: black;
+	text-decoration:none;
+	}
+header a:link {
+	color: black;
+	text-decoration:none;
+	}
+header a:hover {
+	color: black;
+	text-decoration:none;
+	}
+header a:visited {
+	color: black;
+	text-decoration:none;
+	}
+header a:active {
+	color: black;
+	text-decoration:none;
+	}

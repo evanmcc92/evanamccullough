@@ -1,0 +1,190 @@
+@media screen and (max-width: 800px) and (min-width: 610px){
+
+footer {
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+	clear: both;
+	right: 0;
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	position: fixed;
+	}
+footer li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 0 5px 0;
+	}
+header {
+	position: fixed;
+	margin-top: -10px;
+	right:0;
+	padding: 1px;
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	font-size: 20px;
+	height: 70px;
+	width: 100%;
+	color: black;
+	top: 10px;
+	display: inline;
+	}
+table {
+	width: 100%;
+	padding: 15px;
+	left: 0;
+	right: 0;
+	}
+td {
+	padding-top: 1em;
+	padding: 0 .5em;
+	}
+#project {
+	padding: 15px;
+	font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+	}
+#box {
+	width: 100%;
+	padding-top: 0.5em;
+    margin: 1em auto 1em;
+    background: none;
+    height: 100%;
+	}
+#footerDiv {
+	float: right;
+	margin-top: -8px;
+	position: relative;
+	top: 40px;
+	padding-right: 1%;
+	display: inline;
+	}
+#headernav li {
+	display: inline;
+    list-style-type: none;
+    padding-right: 3em;
+	top: 15%;
+	}
+#socialmedia {
+	float: left;
+	position: relative;
+	top: 20px;
+	display: inline;
+	margin-left: -35px;
+	}
+
+}
+
+@media screen and (max-width: 609px) {
+
+footer {
+	bottom: 0;
+	clear: both;
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	margin: 0 -8px -10px -8px;
+	text-align: center;
+	position: inherit;
+	left: 0;
+	right: 0;
+	}
+footer li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 0 10px 0;
+	text-align: center;
+	}
+h1 {
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	display: block;
+	top: 0;
+	width: 68px;
+	margin: 15px auto -20px;
+	position: relative;
+	float: none;
+	}
+header {
+	margin-top: -10px;
+	padding: 1px;
+	font-family: "Steinem", "Times New Roman", Times, serif;
+	font-size: 20px;
+	min-height: 70px;
+	width: 100%;
+	color: black;
+	top: 10px;
+	display: inline-block;
+	position: absolute;
+	}
+img {
+	border: none;
+	max-width: 100%;
+	width:100%;
+	}
+nav {
+	position: relative;
+	text-align: center;
+	float: none;
+	}
+table {
+	width: 100%;
+	padding: 15px;
+	left: 0;
+	right: 0;
+	}
+td {
+	padding-top: 1em;
+	padding: 0 .5em;
+	}
+#project {
+	padding: 15px;
+	font-size: 18px;
+    margin-top: 7em;
+    margin-bottom: 0;
+	}
+#box {
+	width: 100%;
+	padding-top: 0.5em;
+    margin: 1em auto 1em;
+    background: none;
+	}
+#email {
+	width: 50%;
+	}
+#footerDiv {
+	padding-right: 30px;
+	display: inline-block;
+	text-align: center;
+	float: none;
+	position: inherit;
+	}
+#headernav li {
+	display: inline-block;
+    list-style-type: none;
+    padding-right: 2em;
+	top: 15%;
+	margin: 10px 0 0 0;
+	float: none;
+	}
+#indexaside li {
+	list-style-type: none;
+	margin-top: 1em;
+	text-align: center;
+	padding: 0 20px;
+	display: inline-block;
+	float: none;
+	}
+#message {
+	height: 150px;
+	width: 85%;
+	}
+#name {
+	width: 50%;
+	}
+#socialmedia {
+	display: inline-block;
+	text-align: center;
+	margin-right: 10%;
+	float: none;
+	position: inherit;
+	}
+
+
+}
