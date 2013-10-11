@@ -1,0 +1,22 @@
+About Me
+
+Who Am I?
+<p>I am currently enrolled at Suffolk University pursuing my BS/BA in Information Systems and Operations Management (ISOM). When I initially enrolled in school my plan was to be a Psychology major, but I quickly learned that it was not my passion. Since high school, I had wanted to take an HTML class, but I never seemed made the cut. In my second semester I saw an opening for an intro class to HTML and PHP, so I took advantage of this opportunity and fell in love with it. I explained to my advisor how I enjoyed the class and he told me about ISOM, which has a mix of technical work and business fundamentals. Since I was so unsure of what I wanted to do after graduation, I decided that this would be a good fit because of the business aspect. I am now entering my senior year and am eager to build upon my education and work experiences as I begin my professional career. When not in class, I like spending time with my friends, playing video games, watching television, crossfitting, and learning more about web and application development.</p>
+What Am I Doing?
+<p>I aspire to be a web developer, both freelance and professionally. Working with the Commonwealth of Massachusetts and the Federal Reserve has taught me what end users like to see in regards to layout and content.  All of my personal projects have been created using a text editor like Notepad++ and Sublime Text. Being able to write and understand code used in building a site is something every web developer should know. I continue to work with WordPress and Dreamweaver because these are so commonly used.</p>
+Why Do I Do the Things I Do?
+<p>Everyone wants to leave something behind, whether it is a hit song, a painting, or simply a carving on a tree. I want people to remember me because of my contributions to the web. People can view anything on the web anywhere and at any time. In 20 years or so I would like to be able to point out a site or a program and say “I was a part of that” or “I did that.” This may come across as cheesy, but I believe that my calling is working to develop sites or programs that will make the user experience more enjoyable.</p>
+________________________________________
+Projects
+<p>I am always up for suggestions as to what my next project should be. If you have business acquisitions you would like to discuss with me, please use the contact form.</p>
+<p>All of my ventures listed below, as well as some in-progress projects, are uploaded to my <a href=https://github.com/evanmcc92 target=“_blank”>GitHub account</a>.</p>
+Completed Projects
+(mc)fancy
+<p>The (mc)fancy project was to showcase renovations my father did around the house. The site officially launched April 30th, 2013. The first project on the site was of a cabinet that doubles as a fold out table and a murphy bed. The site was coded using a text editor and contains use of CSS, HTML, PHP, and JavaScript. The site is also using Google Analytics to track its performance. My father and I are marketing this site to friends and family.</p>
+iOS application
+<p>I successfully created an iOS app using Objective-C and XCode. This app is an iPhone and iPod Touch friendly version of this current site. I am not planning on putting it onto the App Store because I am not currently enrolled in Apple’s developer programs. I am, however, providing the screenshots to show what it looks like and how it behaves.</p>
+<h4><a href=“https://github.com/evanmcc92/Emily-Massage-Kit” target=“_blank”>Massage Counter App<a></h4>
+<image of app icon>
+<p>The next iPhone app I created was something for my girlfriend in order to count massages given (I know it’s pretty lame). But this app was more complex that the first app. It required more coding and took a lot longer to develop. Again, I am not enrolled in any developer programs but I have managed to upload the code to GitHub so if you are interested <a href=“https://github.com/evanmcc92/Emily-Massage-Kit” target=“_blank”>feel free to take a look</a>.</p>
+<h4><a href=“http://rails-app-v1.herokuapp.com” target=“_blank”>Rails Blog</a></h4>
+<p>This is the first app I created using Ruby on Rails. I followed along with a tutorial for Ruby beginners and I am very pleased with the outcome. I have been recently working with making the layout to be more dynamic and appealing along with adding more features. The code has been uploaded to <a href=“https://github.com/evanmcc92/Emily-Massage-Kit” target=“_blank”>GitHub</a> and will continue to work on this as time goes on.</p>
