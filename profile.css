@@ -31,7 +31,8 @@ aside p {
 	}
 body {
     font-family: helvetica,arial,"Lucida Grande",sans-serif;
-    background-image: url("images/bg.jpg");
+    background-color: rgb(224,228,204);
+    /*background-image: url("images/bg.jpg");*/
 	}
 fieldset {
 	border: none;
